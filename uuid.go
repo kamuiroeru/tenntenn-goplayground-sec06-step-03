@@ -1,4 +1,4 @@
-package uuid
+package tgs6s3
 
 import (
 	"encoding/hex"
